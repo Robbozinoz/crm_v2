@@ -1,0 +1,19 @@
+Basic Authentication:
+Create a basic login system where users enter a predefined username and password to access the system.
+Implement a logout option to exit the system.
+
+File-based Data Storage:
+Modify the classes to read from and write to text files or CSV files for data storage.
+Define simple file formats for storing customer, product, order, project, and invoice data.
+
+Command Line Interface (CLI):
+Develop a text-based menu system for navigating through different functionalities.
+Use input prompts to collect user input for adding/editing customers, products, orders, projects, and invoices.
+
+Email Notification Simulation:
+Print messages directly to the console to simulate email notifications.
+Display messages for various events such as order confirmations and invoice reminders.
+
+Basic Reporting:
+Add options in the CLI menu to display basic reports, such as a list of customers, products, orders, and projects.
+Implement summary views to show key metrics like total sales and project completion rates.
